@@ -1,0 +1,11 @@
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\bin\Debug\Game_Character.exe.config
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\bin\Debug\Game_Character.exe
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\bin\Debug\Game_Character.pdb
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.csproj.AssemblyReference.cache
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.Properties.Resources.resources
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.csproj.GenerateResource.cache
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.csproj.CoreCompileInputs.cache
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.exe
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.pdb
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.Form1.resources
+C:\Users\Estella\source\repos\version1vehicle\Game_Character\Game_Character\obj\Debug\Game_Character.Newform.resources
