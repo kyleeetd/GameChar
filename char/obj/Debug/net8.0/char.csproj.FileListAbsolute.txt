@@ -1,0 +1,14 @@
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.AssemblyInfoInputs.cache
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.AssemblyInfo.cs
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.csproj.CoreCompileInputs.cache
+C:\Users\kingi\Desktop\char\char\bin\Debug\net8.0\char.exe
+C:\Users\kingi\Desktop\char\char\bin\Debug\net8.0\char.deps.json
+C:\Users\kingi\Desktop\char\char\bin\Debug\net8.0\char.runtimeconfig.json
+C:\Users\kingi\Desktop\char\char\bin\Debug\net8.0\char.dll
+C:\Users\kingi\Desktop\char\char\bin\Debug\net8.0\char.pdb
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.dll
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\refint\char.dll
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.pdb
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\char.genruntimeconfig.cache
+C:\Users\kingi\Desktop\char\char\obj\Debug\net8.0\ref\char.dll
