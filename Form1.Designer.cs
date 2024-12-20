@@ -169,13 +169,13 @@
             "Her piercing amber eyes seem to glow with determination"});
             this.txtCharacterDetails.BackColor = System.Drawing.Color.DarkSlateGray;
             this.txtCharacterDetails.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.txtCharacterDetails.Location = new System.Drawing.Point(1087, 56);
+            this.txtCharacterDetails.Location = new System.Drawing.Point(935, 32);
             this.txtCharacterDetails.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtCharacterDetails.Multiline = true;
             this.txtCharacterDetails.Name = "txtCharacterDetails";
             this.txtCharacterDetails.ReadOnly = true;
             this.txtCharacterDetails.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtCharacterDetails.Size = new System.Drawing.Size(151, 34);
+            this.txtCharacterDetails.Size = new System.Drawing.Size(203, 34);
             this.txtCharacterDetails.TabIndex = 8;
             this.txtCharacterDetails.Text = resources.GetString("txtCharacterDetails.Text");
             this.txtCharacterDetails.TextChanged += new System.EventHandler(this.TxtCharacterDetails_TextChanged);
@@ -186,10 +186,10 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnaddcharacter.BackColor = System.Drawing.Color.DarkSlateGray;
-            this.btnaddcharacter.Location = new System.Drawing.Point(33, 648);
+            this.btnaddcharacter.Location = new System.Drawing.Point(33, 560);
             this.btnaddcharacter.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnaddcharacter.Name = "btnaddcharacter";
-            this.btnaddcharacter.Size = new System.Drawing.Size(138, 0);
+            this.btnaddcharacter.Size = new System.Drawing.Size(0, 0);
             this.btnaddcharacter.TabIndex = 10;
             this.btnaddcharacter.Text = "Add Character";
             this.btnaddcharacter.UseVisualStyleBackColor = false;
@@ -204,10 +204,10 @@
             this.btnselectcharacter.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnselectcharacter.BackgroundImage")));
             this.btnselectcharacter.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnselectcharacter.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnselectcharacter.Location = new System.Drawing.Point(58, 682);
+            this.btnselectcharacter.Location = new System.Drawing.Point(54, 644);
             this.btnselectcharacter.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnselectcharacter.Name = "btnselectcharacter";
-            this.btnselectcharacter.Size = new System.Drawing.Size(158, 36);
+            this.btnselectcharacter.Size = new System.Drawing.Size(0, 0);
             this.btnselectcharacter.TabIndex = 11;
             this.btnselectcharacter.Text = "Select Character";
             this.btnselectcharacter.UseVisualStyleBackColor = false;
@@ -215,9 +215,6 @@
             // 
             // btnattack
             // 
-            this.btnattack.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btnattack.BackColor = System.Drawing.Color.Transparent;
             this.btnattack.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnattack.BackgroundImage")));
             this.btnattack.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
@@ -225,10 +222,10 @@
             this.btnattack.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnattack.ForeColor = System.Drawing.Color.Lavender;
             this.btnattack.ImageKey = "(none)";
-            this.btnattack.Location = new System.Drawing.Point(767, 682);
+            this.btnattack.Location = new System.Drawing.Point(585, 548);
             this.btnattack.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnattack.Name = "btnattack";
-            this.btnattack.Size = new System.Drawing.Size(128, 54);
+            this.btnattack.Size = new System.Drawing.Size(167, 79);
             this.btnattack.TabIndex = 12;
             this.btnattack.Text = "Attack";
             this.btnattack.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -237,19 +234,16 @@
             // 
             // btndefend
             // 
-            this.btndefend.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btndefend.BackColor = System.Drawing.Color.Transparent;
             this.btndefend.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btndefend.BackgroundImage")));
             this.btndefend.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btndefend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btndefend.Font = new System.Drawing.Font("Colonna MT", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btndefend.ForeColor = System.Drawing.Color.Lavender;
-            this.btndefend.Location = new System.Drawing.Point(923, 682);
+            this.btndefend.Location = new System.Drawing.Point(776, 537);
             this.btndefend.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btndefend.Name = "btndefend";
-            this.btndefend.Size = new System.Drawing.Size(130, 54);
+            this.btndefend.Size = new System.Drawing.Size(188, 80);
             this.btndefend.TabIndex = 13;
             this.btndefend.Text = "Defend";
             this.btndefend.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -258,19 +252,16 @@
             // 
             // btnlevelup
             // 
-            this.btnlevelup.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btnlevelup.BackColor = System.Drawing.Color.Transparent;
             this.btnlevelup.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnlevelup.BackgroundImage")));
             this.btnlevelup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnlevelup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlevelup.Font = new System.Drawing.Font("Colonna MT", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnlevelup.ForeColor = System.Drawing.Color.Lavender;
-            this.btnlevelup.Location = new System.Drawing.Point(1087, 682);
+            this.btnlevelup.Location = new System.Drawing.Point(972, 537);
             this.btnlevelup.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnlevelup.Name = "btnlevelup";
-            this.btnlevelup.Size = new System.Drawing.Size(127, 54);
+            this.btnlevelup.Size = new System.Drawing.Size(184, 80);
             this.btnlevelup.TabIndex = 14;
             this.btnlevelup.Text = "Level Up";
             this.btnlevelup.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -284,9 +275,9 @@
             this.pictureboxmage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureboxmage.ErrorImage = null;
             this.pictureboxmage.InitialImage = null;
-            this.pictureboxmage.Location = new System.Drawing.Point(231, 442);
+            this.pictureboxmage.Location = new System.Drawing.Point(232, 385);
             this.pictureboxmage.Name = "pictureboxmage";
-            this.pictureboxmage.Size = new System.Drawing.Size(116, 226);
+            this.pictureboxmage.Size = new System.Drawing.Size(108, 129);
             this.pictureboxmage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureboxmage.TabIndex = 15;
             this.pictureboxmage.TabStop = false;
@@ -304,10 +295,10 @@
             this.pictureBoxwarrior.ErrorImage = null;
             this.pictureBoxwarrior.Image = global::Game_Character.Properties.Resources.character5moving;
             this.pictureBoxwarrior.InitialImage = null;
-            this.pictureBoxwarrior.Location = new System.Drawing.Point(338, 126);
+            this.pictureBoxwarrior.Location = new System.Drawing.Point(328, 142);
             this.pictureBoxwarrior.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.pictureBoxwarrior.Name = "pictureBoxwarrior";
-            this.pictureBoxwarrior.Size = new System.Drawing.Size(391, 527);
+            this.pictureBoxwarrior.Size = new System.Drawing.Size(333, 364);
             this.pictureBoxwarrior.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxwarrior.TabIndex = 16;
             this.pictureBoxwarrior.TabStop = false;
@@ -318,10 +309,10 @@
             this.pictureBoxopponent.BackColor = System.Drawing.Color.Transparent;
             this.pictureBoxopponent.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBoxopponent.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxopponent.Image")));
-            this.pictureBoxopponent.Location = new System.Drawing.Point(724, 111);
+            this.pictureBoxopponent.Location = new System.Drawing.Point(720, 142);
             this.pictureBoxopponent.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.pictureBoxopponent.Name = "pictureBoxopponent";
-            this.pictureBoxopponent.Size = new System.Drawing.Size(488, 560);
+            this.pictureBoxopponent.Size = new System.Drawing.Size(362, 403);
             this.pictureBoxopponent.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxopponent.TabIndex = 17;
             this.pictureBoxopponent.TabStop = false;
@@ -338,10 +329,10 @@
             this.listBoxCharacter.Items.AddRange(new object[] {
             "warrior,",
             "mage"});
-            this.listBoxCharacter.Location = new System.Drawing.Point(33, 442);
+            this.listBoxCharacter.Location = new System.Drawing.Point(58, 442);
             this.listBoxCharacter.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.listBoxCharacter.Name = "listBoxCharacter";
-            this.listBoxCharacter.Size = new System.Drawing.Size(46, 48);
+            this.listBoxCharacter.Size = new System.Drawing.Size(65, 48);
             this.listBoxCharacter.TabIndex = 7;
             this.listBoxCharacter.SelectedIndexChanged += new System.EventHandler(this.ListBoxCharacter_SelectedIndexChanged);
             // 
@@ -352,7 +343,7 @@
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1281, 753);
+            this.ClientSize = new System.Drawing.Size(1194, 654);
             this.Controls.Add(this.pictureBoxopponent);
             this.Controls.Add(this.pictureBoxwarrior);
             this.Controls.Add(this.cmbCharacterType);
@@ -376,6 +367,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.Name = "Form1";
             this.RightToLeftLayout = true;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureboxmage)).EndInit();
